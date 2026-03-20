@@ -3,26 +3,27 @@
 Quality Engineering Evangelist | AI-Driven Testing | Systems Thinker  
 
 I build and lead quality engineering teams and systems for complex, distributed, and mission-critical platforms.  
-Currently focused on **AI-native testing, agentic systems, and intelligent automation**.
+**Currently focused on **AI-native testing, agentic systems, and intelligent automation.
 
 ---
 
 ## What I Do
 
-- 🧠 AI-Driven Quality Engineering (Test Generation, Self-Healing, Intelligent Automation)
-- ⚙️ Automation Architecture (Selenium, API, CI/CD)
-- 🔄 Distributed Systems & Integration Testing
-- 📊 Data-Driven Quality & Observability
-- ☁️ Cloud & Enterprise Platforms (SAP, Microservices)
+- AI-Driven Quality Engineering (Test Generation, Self-Healing, Intelligent Automation)
+- Automation Architecture (Selenium, API, CI/CD)
+- Distributed Systems & Integration Testing
+- Data-Driven Quality & Observability
+- Digital, Cloud & Enterprise Platforms (SAP, Oracle, SFDC, Microservices)
 
 ---
 
 ## Current Focus
 
-- Building **agentic testing frameworks**
-- Exploring **LLM-based test generation**
-- Designing **self-healing automation systems**
-- Performance + log intelligence → **predictive insights**
+- Building agentic testing frameworks in alignment with ADLC
+- Exploring LLM-based test generation
+- Designing self-healing automation systems using PlayWright-MCP-Github Copilot 
+- Performance + log intelligence → predictive insights
+- Building overraching CT (Continuous Testing) in new AI era
 
 ---
 
@@ -31,7 +32,7 @@ Currently focused on **AI-native testing, agentic systems, and intelligent autom
 - Python | Java | JavaScript
 - Selenium | REST Assured | TestNG | Playwright | Cypress | Cursor | Appium | TDD-BDD | Pytest 
 - Jenkins | Docker | Kubernetes
-- AWS | Linux
+- AWS | Azure | GCP | Linux
 - GitHub | CI/CD
 
 ---
